@@ -35,25 +35,14 @@
 
 <p align="center">
   <code><img title="C++" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/C++.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/python-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/html5.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/visualstudio.png"></code>
   <code><img title="GitHub" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/mysql.svg"></code>
   <code><img title="MATLAB" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/Matlab.png"></code>
-  <code><img title="R" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/R.png"></code>
   <code><img title="LaTeX" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/LaTeX.svg"></code>
-  <code><img title="Arduino" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/arduino.svg"></code>
   <code><img title="Proteus" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/proteus.png"></code>
-  <code><img title="Weka" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/weka.png"></code>
-  <code><img title="PVSyst" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/PVsyst.png"></code>
-  <code><img title="CSS" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/css.svg"></code>
-  <code><img title="php" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/php.svg"></code>
-  <code><img title="hack" height="25" src="https://github.com/iremolcer/iremolcer/blob/main/images/hack.svg"></code>
 </p>
 
 <hr>
