@@ -20,9 +20,7 @@
   <br>
   💻 I write what I know on Medium <a href="https://medium.com/@olcernur" title="Issues">Here</a>
   <br>
-  🔭 I’m currently working on machine learning project. 😉
-  <br>
-  🌱 I’m currently learning Python & SQL 🐍
+  🌱 I’m currently learning SQL 🐍
   <br>
   💬 Ask me anything about from <a href="https://www.linkedin.com/in/iremnurolcer/" title="Issues">Here</a>
   <br>
